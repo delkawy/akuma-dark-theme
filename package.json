@@ -1,0 +1,21 @@
+{
+  "name": "akuma-dark-theme",
+  "displayName": "Akuma Dark Theme",
+  "description": "A dark theme based on several others, but even darker.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Akuma Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Akuma Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
