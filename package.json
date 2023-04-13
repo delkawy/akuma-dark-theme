@@ -2,13 +2,20 @@
   "name": "akuma-dark-theme",
   "displayName": "Akuma Dark Theme",
   "description": "A dark theme based on several others, but even darker.",
+	"publisher": "delkawy",
+	"icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/delkawy/akuma-dark-theme.git"
+	},
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
