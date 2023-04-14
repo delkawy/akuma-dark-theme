@@ -3,8 +3,8 @@
   "displayName": "Akuma Dark Theme",
   "description": "A dark theme based on several others, but even darker.",
 	"publisher": "delkawy",
-	"icon": "icon.png",
-  "version": "0.0.1",
+	"icon": "images/icon.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.77.0"
   },
