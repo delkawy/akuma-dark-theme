@@ -1,4 +1,8 @@
-# 🌑 Akuma Dark Theme  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/delkawy/akuma-dark-theme/main/images/icon.png" alt="logo" width="200">
+</p>
+
+<h1 align="center">🌑 Akuma Dark Theme</h1>
 
 **Akuma Dark Theme** is a dark, stylish and *easy-on-the-eyes* theme for Visual Studio Code. Inspired by Japanese anime and manga, this theme is perfect for developers who prefer a sleek, minimalist look that doesn't strain the eyes.
 
