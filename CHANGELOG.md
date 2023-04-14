@@ -1,9 +1,10 @@
-# Change Log
+### Changelog 
 
-All notable changes to the "akuma-dark-theme" extension will be documented in this file.
+ All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+ 
+#### **v0.0.1**
 
-## [Unreleased]
+> April 13, 2023 
 
-- Initial release
+- First release! Thank you for choosing Akuma Dark Theme, and happy coding!

@@ -16,7 +16,7 @@
 
 ## 🖌️ Customization
 
-If you would like to customize the theme to your liking, you can do so by modifying the "workbench.colorCustomizations" setting in your Visual Studio Code settings.
+If you would like to customize the theme to your liking, you can do so by modifying the `"workbench.colorCustomizations"` setting in your Visual Studio Code settings.
 
 ## ❤️ Conclusion
 
